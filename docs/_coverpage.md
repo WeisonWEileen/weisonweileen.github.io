@@ -1,13 +1,13 @@
 <!-- _coverpage.md -->
-![logo](assets/logo.png)
+![logo](assets/self.jpg)
 
 # docsify <small>3.5</small>
 
 > A magical documentation site generator.
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- 南方科技大学 机器人工程 22级
+- Robocon 2024 算法组组长
+- 人体增强实验室本科生
 
 [GitHub](https://github.com/docsifyjs/docsify/)
 <!-- [Get Started](#docsify) -->
