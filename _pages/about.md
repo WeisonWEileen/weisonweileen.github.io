@@ -169,11 +169,11 @@ experiment; uilized Qt framework design UI and realize 3D model interaction
 
 
 
-Projects
+Projects Hightlights
 ====
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
     <a  style="height: 14em;" class="research-thumb">
-        <img src="/images/onnx.png" width="680" height="375" alt="Research Image">
+        <img src="/images/onnx.png" width="580" height="375" alt="Research Image">
     </a>
     <div style="margin-left: 10px;">
         <b><i>Depth-Anything v2 Onnx Runtime implementation</i>
@@ -190,7 +190,7 @@ Projects
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
     <a  style="height: 14em;" class="research-thumb">
-        <img src="/images/dbscan.png" width="880" height="475" alt="Research Image">
+        <img src="/images/dbscan.png" width="780" height="475" alt="Research Image">
     </a>
     <div style="margin-left: 10px;">
         <b>Pointcloud Clustering
