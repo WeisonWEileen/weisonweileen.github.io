@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am the third-year undergraduate student at Southern University of Science and Technology (SUSTech), major in Robotics Engineering. 
-I am fansinated by the combination of Robotics in AI. From the past reasearch experiences, competitions and projects, I am eager to focus my future reaserach on **(a) Robotics with generative model and 3D computer vision**, **(b) Co-designing powerful model training paradigm and efficient on-board deployment.**
+I am a third-year undergraduate student at Southern University of Science and Technology (SUSTech), majoring in Robotics Engineering, where I successively supervised <a href="https://scholar.google.com.hk/citations?user=-fnyGY4AAAAJ&hl=en">Prof. Boyu Zhou</a>, <a href="https://scholar.google.com/citations?hl=en&user=HQ6j-KsAAAAJ&view_op=list_works&sortby=pubdate">Prof. Wei Zhang</a>, and <a href="https://scholar.google.com/citations?hl=zh-CN&user=hejSEsYAAAAJ&view_op=list_works&sortby=pubdate">Prof. Chenglong Fu</a> .
+Fansinated by the combination of Robotics in AI, I am eager to focus my future reaserach on **(a) Robotics with generative model and 3D computer vision**, **(b) Co-designing powerful model training paradigm and efficient on-board deployment.**
 
 Research
 ======
@@ -42,7 +42,7 @@ Research
         <br>
         <strong style="color: green;"><i>under review</i></strong> &nbsp;&nbsp;&nbsp;&nbsp;
         <p>
-            <span>&bull; Utilized Rectified Flow for efficient video generation</span>
+            <span>&bull; utilized Rectified Flow for efficient video generation</span>
             <br>
             <span>&bull; proposed RGB-only input for end effector pose estimation using Vision Transformer</span>
         </p>
@@ -89,7 +89,28 @@ Research
 
 
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
+    <a  style="height: 14em;" class="research-thumb">
+        <img src="/images/reha2.png" width="980" height="625" alt="Research Image">
+    </a>
+    <div style="margin-left: 10px;">
+        <b>IMU-Based Prediction of Multiple Grasping Gesture Intentions for
+Enhanced Functional Electrical Stimulation Control
 Competition
+        </b>
+        <p>
+        <!-- <br> -->
+        <span>G. Gou, K. H. Cheng, J. Sun, C. Lin,
+<b>W. Pan</b>, G Huang,  in 2024 International Conference on Advanced Robotics and Mechatronics (ICARM), 2024
+</span>
+        <br>
+        <a href="/files/paper2.pdf">Paper</a>&nbsp;&nbsp;&nbsp;&nbsp;
+        </p>
+    </div>
+</div>
+
+
+
 ======
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
     <a  style="height: 14em;" class="research-thumb">
@@ -122,7 +143,7 @@ Competition
 Xilinx ZYQN 7020, achieve <i>2000 Hz</i> sensing frequency, a real-time master machine software visualization using Qt framework
         <span>
         <br>
-        <a href="https://github.com/WeisonWEileen/pyqt-touching-show">Master Machine Code</a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/WeisonWEileen/pyqt-touching-show">Code</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </span>
         <br>
         </p>
