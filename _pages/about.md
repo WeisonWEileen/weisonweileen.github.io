@@ -196,7 +196,7 @@ Projects Hightlights
         <b>Pointcloud Clustering
         </b>
         <br>
-        <p>Implenmentation DBscan Algorithm for pointcloud clustering based on cartesian coordinates
+        <p>Implenmentated DBscan Algorithm for pointcloud clustering based on cartesian coordinates
         <br>
         </p>
     </div>
