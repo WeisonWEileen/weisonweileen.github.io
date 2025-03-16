@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year undergraduate student at Southern University of Science and Technology (SUSTech), majoring in Robotics Engineering, where I successively supervised <a href="https://scholar.google.com.hk/citations?user=-fnyGY4AAAAJ&hl=en">Prof. Boyu Zhou</a>, <a href="https://scholar.google.com/citations?hl=en&user=HQ6j-KsAAAAJ&view_op=list_works&sortby=pubdate">Prof. Wei Zhang</a>, and <a href="https://scholar.google.com/citations?hl=zh-CN&user=hejSEsYAAAAJ&view_op=list_works&sortby=pubdate">Prof. Chenglong Fu</a> .
+I am a third-year undergraduate student at Southern University of Science and Technology (SUSTech), majoring in Robotics Engineering, where I supervised successively  <a href="https://scholar.google.com.hk/citations?user=-fnyGY4AAAAJ&hl=en">Prof. Boyu Zhou</a>, <a href="https://scholar.google.com/citations?hl=en&user=HQ6j-KsAAAAJ&view_op=list_works&sortby=pubdate">Prof. Wei Zhang</a>, and <a href="https://scholar.google.com/citations?hl=zh-CN&user=hejSEsYAAAAJ&view_op=list_works&sortby=pubdate">Prof. Chenglong Fu</a> .
 Fansinated by the combination of Robotics in AI, I am eager to focus my future reaserach on **(a) Robotics with generative model and 3D computer vision**, **(b) Co-designing powerful model training paradigm and efficient on-board deployment.**
 
 Research
@@ -110,7 +110,7 @@ Competition
 </div>
 
 
-
+Competition
 ======
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
     <a  style="height: 14em;" class="research-thumb">
