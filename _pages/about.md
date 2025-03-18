@@ -40,7 +40,7 @@ Research
             Generative Visual Foresight Meets Task-Agnostic Pose Estimation in Robotic Table-top Manipulation 
         </b>
         <br>
-        <strong style="color: green;"><i>under review</i></strong> &nbsp;&nbsp;&nbsp;&nbsp;
+        <!-- <strong style="color: green;"><i>under review</i></strong> &nbsp;&nbsp;&nbsp;&nbsp; -->
         <p>
             <span>&bull; utilized Rectified Flow for efficient video generation</span>
             <br>
@@ -122,7 +122,7 @@ Competition
         <br>
         <strong style="color: purple;"><i>National First Prize, National Second Prize</i></strong> &nbsp;&nbsp;&nbsp;&nbsp;
         <p>
-        <i>Co-leader</i>, implemented dataset collection on roboflow, Yolov8 training and TensorRT deployment, FAST-LIOv2, ICP， ARM Cortex-M embedded development
+        <i>Co-leader</i>, implemented dataset collection on roboflow, Yolov8 training and TensorRT deployment, FAST-LIOv2, ICP，ARM Cortex-M embedded development
         <span>
 </span>
         <br>
