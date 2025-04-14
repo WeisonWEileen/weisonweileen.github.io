@@ -7,11 +7,33 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year undergraduate student at Southern University of Science and Technology (SUSTech), majoring in Robotics Engineering, where I supervised successively  <a href="https://scholar.google.com.hk/citations?user=-fnyGY4AAAAJ&hl=en">Prof. Boyu Zhou</a>, <a href="https://scholar.google.com/citations?hl=en&user=HQ6j-KsAAAAJ&view_op=list_works&sortby=pubdate">Prof. Wei Zhang</a>, and <a href="https://scholar.google.com/citations?hl=zh-CN&user=hejSEsYAAAAJ&view_op=list_works&sortby=pubdate">Prof. Chenglong Fu</a> .
-Fansinated by the combination of Robotics in AI, I am eager to focus my future reaserach on **(a) Robotics with generative model and 3D computer vision**, **(b) Co-designing powerful model training paradigm and efficient on-board deployment.**
+I am a third-year undergraduate student at Southern University of Science and Technology (SUSTech), majoring in Robotics Engineering, where I work closely with  <a href="https://scholar.google.com.hk/citations?user=-fnyGY4AAAAJ&hl=en">Prof. Boyu Zhou</a>, <a href="https://scholar.google.com/citations?hl=en&user=HQ6j-KsAAAAJ&view_op=list_works&sortby=pubdate">Prof. Wei Zhang</a>, and <a href="https://scholar.google.com/citations?hl=zh-CN&user=hejSEsYAAAAJ&view_op=list_works&sortby=pubdate">Prof. Chenglong Fu</a> .
+Fansinated by the combination of Robotics in AI, I am eager to focus my future reaserach on **(a) Robotics with generative model and 3D perception**, **(b) Co-designing powerful model training paradigm and efficient on-board deployment.**
 
 Research
 ======
+
+
+
+<div style="display: flex; align-items: flex-start;margin-bottom: 60px;">
+    <video width="420" height="200" autoplay loop muted>
+        <source src="/images/manipulation.mp4" type="video/mp4">
+    </video>
+    <div style="margin-left: 10px;">
+        <b>
+            Generative Visual Foresight Meets Task-Agnostic Pose Estimation in Robotic Table-top Manipulation 
+        </b>
+        <br>
+        <!-- <strong style="color: green;"><i>under review</i></strong> &nbsp;&nbsp;&nbsp;&nbsp; -->
+        <p>
+            <span>&bull; utilized Rectified Flow for efficient video generation</span>
+            <br>
+            <span>&bull; proposed transformer based RGB-D only input for end effector pose estimation using Vision Transformer</span>
+        </p>
+    </div>
+</div>
+
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
     <a  style="height: 14em;" class="research-thumb">
         <img src="/images/glass.png" width="440" height="200" alt="Research Image">
@@ -29,26 +51,6 @@ Research
         </p>
     </div>
 </div>
-
-
-<div style="display: flex; align-items: flex-start;margin-bottom: 60px;">
-    <video width="420" height="200" autoplay loop muted>
-        <source src="/images/manipulation.mp4" type="video/mp4">
-    </video>
-    <div style="margin-left: 10px;">
-        <b>
-            Generative Visual Foresight Meets Task-Agnostic Pose Estimation in Robotic Table-top Manipulation 
-        </b>
-        <br>
-        <!-- <strong style="color: green;"><i>under review</i></strong> &nbsp;&nbsp;&nbsp;&nbsp; -->
-        <p>
-            <span>&bull; utilized Rectified Flow for efficient video generation</span>
-            <br>
-            <span>&bull; proposed RGB-only input for end effector pose estimation using Vision Transformer</span>
-        </p>
-    </div>
-</div>
-
 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
