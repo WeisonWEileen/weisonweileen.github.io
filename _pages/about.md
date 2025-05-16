@@ -36,18 +36,19 @@ Research
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
     <a  style="height: 14em;" class="research-thumb">
-        <img src="/images/glass.png" width="440" height="200" alt="Research Image">
+        <img src="/images/glass.png" width="360" height="160" alt="Research Image">
     </a>
     <div style="margin-left: 10px;">
         <b>
                UAV Perception and Navigation
         </b>
         <br>
-        <strong style="color: green;"><i>on going</i></strong> &nbsp;&nbsp;&nbsp;&nbsp;
+        <!-- <strong style="color: green;"><i>todos</i></strong> &nbsp;&nbsp;&nbsp;&nbsp; -->
         <p>
-            <span>&bull; Utilzing diffusion model to improve the perception ability of UAV </span>
+            <span>&bull; inference in the air </span>
+            <!-- <span>&bull; Utilzing diffusion model to improve the perception ability of UAV </span>
             <br>
-            <span>&bull; Efficient Deployment of diffusion model</span>
+            <span>&bull; Efficient Deployment of diffusion model</span> -->
         </p>
     </div>
 </div>
@@ -55,13 +56,13 @@ Research
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
     <a  style="height: 14em;" class="research-thumb">
-        <img src="/images/centaur.gif" width="380" height="245" alt="Research Image">
+        <img src="/images/centaur.gif" width="400" height="245" alt="Research Image">
     </a>
     <div style="margin-left: 10px;">
         <b>Centaur Robot for Load-carriage Walking Assistance
         </b>
         <p>
-        <strong style="color: green;"><i>real-world experiment in progress</i></strong> &nbsp;&nbsp;&nbsp;&nbsp;
+        <!-- <strong style="color: green;"><i>todos</i></strong> &nbsp;&nbsp;&nbsp;&nbsp; -->
         <br>
         <span>&bull; reinforcement learning based control strategy </span>
         <br>
@@ -115,16 +116,19 @@ Competition
 Competition
 ======
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
-    <a  style="height: 14em;" class="research-thumb">
+    <!-- <a  style="height: 14em;" class="research-thumb">
         <img src="/images/robocon.png" width="1180" height="675" alt="Research Image">
-    </a>
+    </a> -->
+    <video width="420" height="200" autoplay loop muted>
+        <source src="/images/robot.mp4" type="video/mp4">
+    </video>
     <div style="margin-left: 10px;">
         <b><i>Robocon 2024 National Robocon National University Robotics Competition</i>
         </b>
         <br>
         <strong style="color: purple;"><i>National First Prize, National Second Prize</i></strong> &nbsp;&nbsp;&nbsp;&nbsp;
         <p>
-        <i>Co-leader</i>, implemented dataset collection on roboflow, Yolov8 training and TensorRT deployment, FAST-LIOv2, ICP，ARM Cortex-M embedded development
+        <b>group algorithm leader</b>, implementationof object detection, localization and inference optimization.
         <span>
 </span>
         <br>
@@ -142,7 +146,7 @@ Competition
         <br>
         <strong style="color: purple;"><i>National Second Prize</i></strong> &nbsp;&nbsp;&nbsp;&nbsp;
         <p>a high-performance ionic electronic skin perception system on
-Xilinx ZYQN 7020, achieve <i>2000 Hz</i> sensing frequency, a real-time master machine software visualization using Qt framework
+Xilinx ZYQN 7020, achieve <b>2000 Hz</b> sensing frequency, a real-time master machine software visualization using Qt framework
         <span>
         <br>
         <a href="https://github.com/WeisonWEileen/pyqt-touching-show">Code</a>&nbsp;&nbsp;&nbsp;&nbsp;
