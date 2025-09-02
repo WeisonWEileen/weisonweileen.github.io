@@ -27,11 +27,6 @@ Research
         <span>Chuye Zhang*, Xiaoxiong Zhang*,  Wei Pan, Linfang Zheng† , Wei Zhang†</span>
         <br>
         <!-- <strong style="color: green;"><i>under review</i></strong> &nbsp;&nbsp;&nbsp;&nbsp; -->
-        <p>
-            <span>&bull; utilized Rectified Flow for efficient video generation</span>
-            <br>
-            <span>&bull; proposed transformer based RGB-D only input for end effector pose estimation using Vision Transformer</span>
-        </p>
     </div>
 </div>
 
