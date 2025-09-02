@@ -24,7 +24,7 @@ Research
             Generative Visual Foresight Meets Task-Agnostic Pose Estimation in Robotic Table-top Manipulation / CORL 2025
         </b>
         <br>
-        <span>Chuye Zhang* <sup>1</sup>, Xiaoxiong Zhang* <sup>1</sup> Wei Pan<sup>1</sup>, Linfang Zheng† <sup>2,3</sup>, Wei Zhang† <sup>1,2</sup></span>
+        <span>Chuye Zhang*, Xiaoxiong Zhang*,  Wei Pan, Linfang Zheng† , Wei Zhang†</span>
         <br>
         <!-- <strong style="color: green;"><i>under review</i></strong> &nbsp;&nbsp;&nbsp;&nbsp; -->
         <p>
