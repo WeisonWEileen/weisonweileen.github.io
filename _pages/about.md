@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year undergraduate student at Southern University of Science and Technology (SUSTech), majoring in Robotics Engineering, where I work closely with  <a href="https://scholar.google.com.hk/citations?user=-fnyGY4AAAAJ&hl=en">Prof. Boyu Zhou</a>, <a href="https://scholar.google.com/citations?hl=en&user=HQ6j-KsAAAAJ&view_op=list_works&sortby=pubdate">Prof. Wei Zhang</a>, and <a href="https://scholar.google.com/citations?hl=zh-CN&user=hejSEsYAAAAJ&view_op=list_works&sortby=pubdate">Prof. Chenglong Fu</a> .
+I am a undergraduate student at Southern University of Science and Technology (SUSTech), now visiting at berkeley, majoring in Robotics Engineering, where I work closely with  <a href="https://scholar.google.com.hk/citations?user=-fnyGY4AAAAJ&hl=en">Prof. Boyu Zhou</a>, <a href="https://scholar.google.com/citations?hl=en&user=HQ6j-KsAAAAJ&view_op=list_works&sortby=pubdate">Prof. Wei Zhang</a>, and <a href="https://scholar.google.com/citations?hl=zh-CN&user=hejSEsYAAAAJ&view_op=list_works&sortby=pubdate">Prof. Chenglong Fu</a> .
 Fansinated by the combination of Robotics in AI, I am eager to focus my future reaserach on **(a) Robotics with generative model and 3D perception**, **(b) Co-designing powerful model training paradigm and efficient on-board deployment.**
 
 Research
@@ -21,10 +21,13 @@ Research
     </video>
     <div style="margin-left: 10px;">
         <b>
-            Generative Visual Foresight Meets Task-Agnostic Pose Estimation in Robotic Table-top Manipulation / CORL 2025
+            Generative Visual Foresight Meets Task-Agnostic Pose Estimation in Robotic Table-top Manipulation 
         </b>
         <br>
-        <span>Chuye Zhang*, Xiaoxiong Zhang*,  Wei Pan, Linfang Zheng† , Wei Zhang†</span>
+        <b><i style="color: cyan;">CORL 2025</i></b>
+        <!-- <br> -->
+        <br>
+        <span>Chuye Zhang*, Xiaoxiong Zhang*, <b>Wei Pan</b>, Linfang Zheng†, Wei Zhang†</span>
         <br>
         <!-- <strong style="color: green;"><i>under review</i></strong> &nbsp;&nbsp;&nbsp;&nbsp; -->
     </div>
@@ -33,16 +36,17 @@ Research
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
     <a  style="height: 14em;" class="research-thumb">
-        <img src="/images/glass.png" width="360" height="160" alt="Research Image">
+        <img src="/images/uav.png" width="360" height="160" alt="Research Image">
     </a>
     <div style="margin-left: 10px;">
         <b>
-               UAV Perception and Navigation
+            Diffusion-based Mirror Perception for UAV Navigation
         </b>
         <br>
+        [paper][coming soon]
         <!-- <strong style="color: green;"><i>todos</i></strong> &nbsp;&nbsp;&nbsp;&nbsp; -->
         <p>
-            <span>&bull; inference in the air </span>
+            <span>&bull; <a href="https://www.bilibili.com/video/BV1TpazzXE12/?spm_id_from=333.1387.homepage.video_card.click&vd_source=7dd314d0c5d308dffc8fa8321735f792">demo link</a> </span>
             <!-- <span>&bull; Utilzing diffusion model to improve the perception ability of UAV </span>
             <br>
             <span>&bull; Efficient Deployment of diffusion model</span> -->
