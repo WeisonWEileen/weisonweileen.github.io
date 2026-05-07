@@ -25,7 +25,7 @@ Research
         </b>
         <br>
         <a href="https://clearlab-sustech.github.io/gvf-tape/">project page</a>&nbsp;&nbsp;&nbsp;&nbsp;
-        CORL 2025
+        CoRL 2025
         <!-- <br> -->
         <br>
         <span>Chuye Zhang*, Xiaoxiong Zhang*, <b>Wei Pan</b>, Linfang Zheng†, Wei Zhang†</span>
@@ -34,7 +34,7 @@ Research
 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
-    <img src="/images/uav.png" style="width: 390px; height: 200px; object-fit: cover; flex-shrink: 0;" alt="Research Image">
+    <img src="/images/mirror.gif" style="width: 390px; height: 200px; object-fit: cover; flex-shrink: 0;" alt="Research Image">
     <div style="margin-left: 10px;">
         <b>
             Diffusion-based Mirror Perception for UAV Navigation
