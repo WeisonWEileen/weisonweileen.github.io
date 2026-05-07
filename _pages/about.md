@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am an undergraduate student at <a href="https://www.sustech.edu.cn/en/">Southern University of Science and Technology (SUSTech)</a>,  supervised by  <a href="https://scholar.google.com.hk/citations?user=-fnyGY4AAAAJ&hl=en">Prof. Boyu Zhou</a>. I was also a visiting student at UC Berkeley (25 Fall). Currently I am a research intern at <a href="https://wuji.tech/en/">Wuji</a>.
-My goal is to build robust, generalizable and useful robotic systems. Now I am focusing on **(a) Visuo-Tactile Dexterous Manipulation**, **(b) Pre-trained friendly bi-dexterous robotic system design.**
+My goal is to build robust, generalizable and useful robotic systems. Now I am focusing on **(a) Tactile-Adaptive Robot Dexterity**, **(b) Pre-trained friendly bi-dexterous robotic system design.**
 
 Research
 ======
@@ -132,14 +132,14 @@ Competitions and Projects
         <source src="/images/robot.mp4" type="video/mp4">
     </video>
     <div style="margin-left: 10px;">
-        <b><i>National University Robotics Competition 2024, Robocon</i>
+        <b><i>National College Robotics Competition, 2024</i>
         </b>
         <br>
         <strong style="color: purple;"><i>National First Prize</i></strong> &nbsp;&nbsp;&nbsp;&nbsp;
         <p>
         <b>Team leader</b>
         <br>
-        Worked on full-stack for design, control, perception from scratch.
+        Worked on design, control, perception from scratch.
         <span>
 </span>
         <br>
@@ -150,7 +150,7 @@ Competitions and Projects
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
     <img src="/images/fpga.gif" style="width: 390px; height: 200px; object-fit: cover; flex-shrink: 0;" alt="Research Image">
     <div style="margin-left: 10px;">
-        <b><i>National FPGA and Embedded System Competition</i>
+        <b><i>National College FPGA Competition, 2024</i>
         </b>
         <br>
         <strong style="color: purple;"><i>National Second Prize</i></strong> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -166,10 +166,10 @@ Competitions and Projects
     </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
+<!-- <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
     <img src="/images/qtdifraction.png" style="width: 390px; height: 200px; object-fit: cover; flex-shrink: 0;" alt="Research Image">
     <div style="margin-left: 10px;">
-        <b><i>National University Physics Experiment Software Design Competition </i>
+        <b><i>National College Physics Experiment Software Competition, 2023 </i>
         </b>
         <br>
         <strong style="color: purple;">National Second Prize</strong> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -179,7 +179,7 @@ experiment; utilized Qt framework design UI and realize 3D model interaction
         <br>
         </p>
     </div>
-</div>
+</div> -->
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
     <img src="/images/onnx.png" style="width: 390px; height: 200px; object-fit: cover; flex-shrink: 0;" alt="Research Image">
