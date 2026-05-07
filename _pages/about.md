@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a undergraduate student at Southern University of Science and Technology (SUSTech),  Supervised by  <a href="https://scholar.google.com.hk/citations?user=-fnyGY4AAAAJ&hl=en">Prof. Boyu Zhou</a>. I was also a visiting student at UCBerkeley(25 Fall).
+I am a undergraduate student at <a href="https://www.sustech.edu.cn/en/">Southern University of Science and Technology (SUSTech)</a>,  Supervised by  <a href="https://scholar.google.com.hk/citations?user=-fnyGY4AAAAJ&hl=en">Prof. Boyu Zhou</a>. I was also a visiting student at UCBerkeley(25 Fall).
 My goal is to build useful and robust robotic system. Now I am focusing on **(a) Visuo-Tactile Dexterous Manipulation**, **(b) pre-trained friendly bi-dexterous robotic system design.**
 
 Research
@@ -16,7 +16,7 @@ Research
 
 
 <div style="display: flex; align-items: flex-start;margin-bottom: 60px;">
-    <video style="width: 420px; height: 200px; object-fit: cover; flex-shrink: 0;" autoplay loop muted>
+    <video style="width: 390px; height: 200px; object-fit: cover; flex-shrink: 0;" autoplay loop muted>
         <source src="/images/manipulation.mp4" type="video/mp4">
     </video>
     <div style="margin-left: 10px;">
@@ -34,7 +34,7 @@ Research
 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
-    <img src="/images/uav.png" style="width: 420px; height: 200px; object-fit: cover; flex-shrink: 0;" alt="Research Image">
+    <img src="/images/uav.png" style="width: 390px; height: 200px; object-fit: cover; flex-shrink: 0;" alt="Research Image">
     <div style="margin-left: 10px;">
         <b>
             Diffusion-based Mirror Perception for UAV Navigation
@@ -53,7 +53,7 @@ Research
 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
-    <img src="/images/centaur_combined.gif" style="width: 420px; height: 200px; object-fit: cover; flex-shrink: 0;" alt="Research Image">
+    <img src="/images/centaur_combined.gif" style="width: 390px; height: 200px; object-fit: cover; flex-shrink: 0;" alt="Research Image">
     <div style="margin-left: 10px;">
         <b>Design, RL Control and Sim-to-real Transfer for a load-carriage robot
         </b>
@@ -113,7 +113,7 @@ Competition
     <!-- <a  style="height: 14em;" class="research-thumb">
         <img src="/images/robocon.png" width="1180" height="675" alt="Research Image">
     </a> -->
-    <video style="width: 420px; height: 200px; object-fit: cover; flex-shrink: 0;" autoplay loop muted>
+    <video style="width: 390px; height: 200px; object-fit: cover; flex-shrink: 0;" autoplay loop muted>
         <source src="/images/robot.mp4" type="video/mp4">
     </video>
     <div style="margin-left: 10px;">
@@ -131,7 +131,7 @@ Competition
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
-    <img src="/images/fpga.gif" style="width: 420px; height: 200px; object-fit: cover; flex-shrink: 0;" alt="Research Image">
+    <img src="/images/fpga.gif" style="width: 390px; height: 200px; object-fit: cover; flex-shrink: 0;" alt="Research Image">
     <div style="margin-left: 10px;">
         <b><i>National FPGA and Embedded System Competition</i>
         </b>
@@ -148,7 +148,7 @@ Competition
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
-    <img src="/images/qtdifraction.png" style="width: 420px; height: 200px; object-fit: cover; flex-shrink: 0;" alt="Research Image">
+    <img src="/images/qtdifraction.png" style="width: 390px; height: 200px; object-fit: cover; flex-shrink: 0;" alt="Research Image">
     <div style="margin-left: 10px;">
         <b><i>National University Physics Experiment Software Design Competition </i>
         </b>
@@ -167,7 +167,7 @@ experiment; uilized Qt framework design UI and realize 3D model interaction
 Projects Hightlights
 ====
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
-    <img src="/images/onnx.png" style="width: 420px; height: 200px; object-fit: cover; flex-shrink: 0;" alt="Research Image">
+    <img src="/images/onnx.png" style="width: 390px; height: 200px; object-fit: cover; flex-shrink: 0;" alt="Research Image">
     <div style="margin-left: 10px;">
         <b><i>Depth-Anything v2 Onnx Runtime implementation</i>
         </b>
@@ -182,7 +182,7 @@ Projects Hightlights
 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
-    <img src="/images/dbscan.png" style="width: 420px; height: 200px; object-fit: cover; flex-shrink: 0;" alt="Research Image">
+    <img src="/images/dbscan.png" style="width: 390px; height: 200px; object-fit: cover; flex-shrink: 0;" alt="Research Image">
     <div style="margin-left: 10px;">
         <b>Pointcloud Clustering
         </b>
