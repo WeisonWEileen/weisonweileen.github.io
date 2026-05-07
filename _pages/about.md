@@ -172,7 +172,7 @@ experiment; uilized Qt framework design UI and realize 3D model interaction
 </div>
 
 
-
+ 
 Projects Hightlights
 ====
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
