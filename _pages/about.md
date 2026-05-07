@@ -25,7 +25,7 @@ Research
         </b>
         <br>
         <a href="https://clearlab-sustech.github.io/gvf-tape/">project page</a>&nbsp;&nbsp;&nbsp;&nbsp;
-        CORL 2025</i>
+        CORL 2025
         <!-- <br> -->
         <br>
         <span>Chuye Zhang*, Xiaoxiong Zhang*, <b>Wei Pan</b>, Linfang Zheng†, Wei Zhang†</span>
@@ -35,7 +35,7 @@ Research
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
     <a  style="height: 14em;" class="research-thumb">
-        <img src="/images/uav.png" width="440" height="160" alt="Research Image">
+        <img src="/images/uav.png" width="420" height="140" alt="Research Image">
     </a>
     <div style="margin-left: 10px;">
         <b>
@@ -56,18 +56,18 @@ Research
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
     <a  style="height: 14em;" class="research-thumb">
-        <img src="/images/centaur.gif" width="400" height="245" alt="Research Image">
+        <img src="/images/centaur_combined.gif" width="400" height="245" alt="Research Image">
     </a>
     <div style="margin-left: 10px;">
-        <b>Centaur Robot for Load-carriage Walking Assistance
+        <b>Design, RL Control and Sim-to-real Transfer for a load-carriage robot
         </b>
         <p>
         <!-- <strong style="color: green;"><i>todos</i></strong> &nbsp;&nbsp;&nbsp;&nbsp; -->
         <br>
-        <span>&bull; reinforcement learning based control strategy </span>
+        <span>&bull; Modeling and sim-to-real for a load-carriage robot </span>
         <br>
-        <span>&bull; multi-terrain and multi-loading adaption </span>
-        <br>
+        <!-- <span>&bull; multi-terrain and multi-loading adaption </span>
+        <br> -->
         </p>
     </div>
 </div>
@@ -121,7 +121,7 @@ Competition
         <source src="/images/robot.mp4" type="video/mp4">
     </video>
     <div style="margin-left: 10px;">
-        <b><i>Robocon 2024 National Robocon National University Robotics Competition</i>
+        <b><i>National University Robotics Competition 2024, Robocon</i>
         </b>
         <br>
         <strong style="color: purple;"><i>National First Prize</i></strong> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -143,8 +143,7 @@ Competition
         </b>
         <br>
         <strong style="color: purple;"><i>National Second Prize</i></strong> &nbsp;&nbsp;&nbsp;&nbsp;
-        <p>a high-performance ionic electronic skin perception system on
-Xilinx ZYQN 7020, achieve <b>2000 Hz</b> sensing frequency, a real-time master machine software visualization using Qt framework
+        <p>We present a high-performance **2000 Hz** sensing frequency ionic electronic skin perception system.
         <span>
         <br>
         <a href="https://github.com/WeisonWEileen/pyqt-touching-show">Code</a>&nbsp;&nbsp;&nbsp;&nbsp;
