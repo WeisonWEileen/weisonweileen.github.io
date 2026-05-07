@@ -40,7 +40,7 @@ Research
             Diffusion-based Mirror Perception for UAV Navigation
         </b>
         <br>
-        [paper][In Submission]
+        [In Submission]
         <!-- <strong style="color: green;"><i>todos</i></strong> &nbsp;&nbsp;&nbsp;&nbsp; -->
         <p>
             <span>&bull; <a href="https://www.bilibili.com/video/BV1TpazzXE12/?spm_id_from=333.1387.homepage.video_card.click&vd_source=7dd314d0c5d308dffc8fa8321735f792">demo link</a> </span>
