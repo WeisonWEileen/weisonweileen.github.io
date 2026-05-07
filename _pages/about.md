@@ -35,7 +35,7 @@ Research
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
     <a  style="height: 14em;" class="research-thumb">
-        <img src="/images/uav.png" width="420" height="140" alt="Research Image">
+        <img src="/images/uav.png" width="420" height="200" style="object-fit: cover;" alt="Research Image">
     </a>
     <div style="margin-left: 10px;">
         <b>
@@ -56,7 +56,7 @@ Research
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
     <a  style="height: 14em;" class="research-thumb">
-        <img src="/images/centaur_combined.gif" width="400" height="225" alt="Research Image">
+        <img src="/images/centaur_combined.gif" width="420" height="200" style="object-fit: cover;" alt="Research Image">
     </a>
     <div style="margin-left: 10px;">
         <b>Design, RL Control and Sim-to-real Transfer for a load-carriage robot
@@ -136,7 +136,7 @@ Competition
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
     <a  style="height: 14em;" class="research-thumb">
-        <img src="/images/fpga.gif" width="1480" height="1375" alt="Research Image">
+        <img src="/images/fpga.gif" width="420" height="200" style="object-fit: cover;" alt="Research Image">
     </a>
     <div style="margin-left: 10px;">
         <b><i>National FPGA and Embedded System Competition</i>
@@ -155,7 +155,7 @@ Competition
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
     <a  style="height: 14em;" class="research-thumb">
-        <img src="/images/qtdifraction.png" width="1380" height="775" alt="Research Image">
+        <img src="/images/qtdifraction.png" width="420" height="200" style="object-fit: cover;" alt="Research Image">
     </a>
     <div style="margin-left: 10px;">
         <b><i>National University Physics Experiment Software Design Competition </i>
@@ -176,7 +176,7 @@ Projects Hightlights
 ====
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
     <a  style="height: 14em;" class="research-thumb">
-        <img src="/images/onnx.png" width="580" height="375" alt="Research Image">
+        <img src="/images/onnx.png" width="420" height="200" style="object-fit: cover;" alt="Research Image">
     </a>
     <div style="margin-left: 10px;">
         <b><i>Depth-Anything v2 Onnx Runtime implementation</i>
@@ -193,7 +193,7 @@ Projects Hightlights
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
     <a  style="height: 14em;" class="research-thumb">
-        <img src="/images/dbscan.png" width="780" height="475" alt="Research Image">
+        <img src="/images/dbscan.png" width="420" height="200" style="object-fit: cover;" alt="Research Image">
     </a>
     <div style="margin-left: 10px;">
         <b>Pointcloud Clustering
