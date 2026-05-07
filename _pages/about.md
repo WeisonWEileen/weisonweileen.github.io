@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a undergraduate student at Southern University of Science and Technology (SUSTech), now visiting at berkeley, majoring in Robotics Engineering, where I work closely with  <a href="https://scholar.google.com.hk/citations?user=-fnyGY4AAAAJ&hl=en">Prof. Boyu Zhou</a>, <a href="https://scholar.google.com/citations?hl=en&user=HQ6j-KsAAAAJ&view_op=list_works&sortby=pubdate">Prof. Wei Zhang</a>, and <a href="https://scholar.google.com/citations?hl=zh-CN&user=hejSEsYAAAAJ&view_op=list_works&sortby=pubdate">Prof. Chenglong Fu</a> .
-Fansinated by the combination of Robotics in AI, I am eager to focus my future reaserach on **(a) Robotics with generative model and 3D perception**, **(b) Co-designing powerful model training paradigm and efficient on-board deployment.**
+I am a undergraduate student at Southern University of Science and Technology (SUSTech),  Supervised by  <a href="https://scholar.google.com.hk/citations?user=-fnyGY4AAAAJ&hl=en">Prof. Boyu Zhou</a>. I was also a visiting student at UCBerkeley(25 Fall).
+My goal is to build useful and robust robotic system. Now I am focusing on **(a) Visuo-Tactile Dexterous Manipulation**, **(b) pre-trained friendly bi-dexterous robotic system design.**
 
 Research
 ======
@@ -24,26 +24,25 @@ Research
             Generative Visual Foresight Meets Task-Agnostic Pose Estimation in Robotic Table-top Manipulation 
         </b>
         <br>
-        <b><i style="color: cyan;">CORL 2025</i></b>
+        <a href="https://clearlab-sustech.github.io/gvf-tape/">project page</a>&nbsp;&nbsp;&nbsp;&nbsp;
+        CORL 2025</i>
         <!-- <br> -->
         <br>
         <span>Chuye Zhang*, Xiaoxiong Zhang*, <b>Wei Pan</b>, Linfang Zheng†, Wei Zhang†</span>
-        <br>
-        <!-- <strong style="color: green;"><i>under review</i></strong> &nbsp;&nbsp;&nbsp;&nbsp; -->
     </div>
 </div>
 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
     <a  style="height: 14em;" class="research-thumb">
-        <img src="/images/uav.png" width="360" height="160" alt="Research Image">
+        <img src="/images/uav.png" width="440" height="160" alt="Research Image">
     </a>
     <div style="margin-left: 10px;">
         <b>
             Diffusion-based Mirror Perception for UAV Navigation
         </b>
         <br>
-        [paper][coming soon]
+        [paper][In Submission]
         <!-- <strong style="color: green;"><i>todos</i></strong> &nbsp;&nbsp;&nbsp;&nbsp; -->
         <p>
             <span>&bull; <a href="https://www.bilibili.com/video/BV1TpazzXE12/?spm_id_from=333.1387.homepage.video_card.click&vd_source=7dd314d0c5d308dffc8fa8321735f792">demo link</a> </span>
@@ -74,7 +73,7 @@ Research
 </div>
 
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
+<!-- <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
     <a  style="height: 14em;" class="research-thumb">
         <img src="/images/reha.png" width="980" height="625" alt="Research Image">
     </a>
@@ -82,18 +81,17 @@ Research
         <b>Flexible Multi-Channel Electrical Stimulation System for Assisting Grasping in Patients with Hemiplegia
         </b>
         <p>
-        <!-- <br> -->
         <span>J. Sun, G. Huang, C. Lin, <b>W, Pan</b>, K. H. Cheng, G. Gou.,  in 2024 International Conference on Advanced Robotics and Mechatronics (ICARM), 2024
 </span>
         <br>
         <a href="/files/paper1.pdf">Paper</a>&nbsp;&nbsp;&nbsp;&nbsp;
         </p>
     </div>
-</div>
+</div> -->
 
 
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
+<!-- <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
     <a  style="height: 14em;" class="research-thumb">
         <img src="/images/reha2.png" width="980" height="625" alt="Research Image">
     </a>
@@ -103,7 +101,6 @@ Enhanced Functional Electrical Stimulation Control
 Competition
         </b>
         <p>
-        <!-- <br> -->
         <span>G. Gou, K. H. Cheng, J. Sun, C. Lin,
 <b>W. Pan</b>, G Huang,  in 2024 International Conference on Advanced Robotics and Mechatronics (ICARM), 2024
 </span>
@@ -111,7 +108,7 @@ Competition
         <a href="/files/paper2.pdf">Paper</a>&nbsp;&nbsp;&nbsp;&nbsp;
         </p>
     </div>
-</div>
+</div> -->
 
 
 Competition
@@ -127,9 +124,9 @@ Competition
         <b><i>Robocon 2024 National Robocon National University Robotics Competition</i>
         </b>
         <br>
-        <strong style="color: purple;"><i>National First Prize, National Second Prize</i></strong> &nbsp;&nbsp;&nbsp;&nbsp;
+        <strong style="color: purple;"><i>National First Prize</i></strong> &nbsp;&nbsp;&nbsp;&nbsp;
         <p>
-        <b>group algorithm leader</b>, implementationof object detection, localization and inference optimization.
+        <b>Team leader</b>, implementationof object detection, localization and inference optimization.
         <span>
 </span>
         <br>
