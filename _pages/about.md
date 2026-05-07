@@ -56,7 +56,7 @@ Research
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
     <a  style="height: 14em;" class="research-thumb">
-        <img src="/images/centaur_combined.gif" width="400" height="245" alt="Research Image">
+        <img src="/images/centaur_combined.gif" width="400" height="225" alt="Research Image">
     </a>
     <div style="margin-left: 10px;">
         <b>Design, RL Control and Sim-to-real Transfer for a load-carriage robot
