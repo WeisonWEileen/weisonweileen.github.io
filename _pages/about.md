@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a undergraduate student at <a href="https://www.sustech.edu.cn/en/">Southern University of Science and Technology (SUSTech)</a>,  Supervised by  <a href="https://scholar.google.com.hk/citations?user=-fnyGY4AAAAJ&hl=en">Prof. Boyu Zhou</a>. I was also a visiting student at UCBerkeley(25 Fall).
-My goal is to build useful and robust robotic system. Now I am focusing on **(a) Visuo-Tactile Dexterous Manipulation**, **(b) pre-trained friendly bi-dexterous robotic system design.**
+I am an undergraduate student at <a href="https://www.sustech.edu.cn/en/">Southern University of Science and Technology (SUSTech)</a>,  supervised by  <a href="https://scholar.google.com.hk/citations?user=-fnyGY4AAAAJ&hl=en">Prof. Boyu Zhou</a>. I was also a visiting student at UC Berkeley (25 Fall). Currently I am a research intern at <a href="https://wuji.tech/en/">Wuji</a>.
+My goal is to build robust, generalizable and useful robotic systems. Now I am focusing on **(a) Visuo-Tactile Dexterous Manipulation**, **(b) Pre-trained friendly bi-dexterous robotic system design.**
 
 Research
 ======
@@ -60,7 +60,7 @@ Research
         <p>
         <!-- <strong style="color: green;"><i>todos</i></strong> &nbsp;&nbsp;&nbsp;&nbsp; -->
         <br>
-        <span>&bull; Modeling and sim-to-real for a load-carriage robot </span>
+        <span>&bull; Modeling and sim-to-real for a load-carriage robot with intensive human-robot interaction. </span>
         <br>
         <!-- <span>&bull; multi-terrain and multi-loading adaption </span>
         <br> -->
@@ -107,7 +107,22 @@ Competition
 </div> -->
 
 
-Competition
+Education Background
+======
+
+<div style="display: flex; justify-content: space-between; align-items: baseline;">
+    <b>Southern University of Science and Technology (SUSTech)</b>
+    <span>Sep 2022 - June, 2026 (Expected)</span>
+</div>
+<i>Bachelor of Engineering in Robotics Engineering</i> | GPA: <b>3.8/4.0</b>
+
+<div style="display: flex; justify-content: space-between; align-items: baseline;">
+    <b>University of California, Berkeley</b>
+    <span>August 2025 - Dec 2025</span>
+</div>
+<i>Visiting Student</i> | GPA: <b>4.0/4.0</b>
+
+Competitions and Projects
 ======
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
     <!-- <a  style="height: 14em;" class="research-thumb">
@@ -122,7 +137,9 @@ Competition
         <br>
         <strong style="color: purple;"><i>National First Prize</i></strong> &nbsp;&nbsp;&nbsp;&nbsp;
         <p>
-        <b>Team leader</b>, implementationof object detection, localization and inference optimization.
+        <b>Team leader</b>
+        <br>
+        Worked on full-stack for design, control, perception from scratch.
         <span>
 </span>
         <br>
@@ -137,7 +154,9 @@ Competition
         </b>
         <br>
         <strong style="color: purple;"><i>National Second Prize</i></strong> &nbsp;&nbsp;&nbsp;&nbsp;
-        <p>We present a high-performance **2000 Hz** sensing frequency ionic electronic skin perception system.
+        <p><b>Team leader</b>.
+        <br>
+        We present a high-performance <b>2000 Hz</b> sensing frequency ionic electronic skin perception system.
         <span>
         <br>
         <a href="https://github.com/WeisonWEileen/pyqt-touching-show">Code</a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -155,24 +174,20 @@ Competition
         <br>
         <strong style="color: purple;">National Second Prize</strong> &nbsp;&nbsp;&nbsp;&nbsp;
         <p>Developed two-dimensional diffraction simulation software based on mobile phone screen grating
-experiment; uilized Qt framework design UI and realize 3D model interaction
+experiment; utilized Qt framework design UI and realize 3D model interaction
         <a href="https://github.com/Jupiter2143/QtDiffractionSimulator?tab=readme-ov-file">Code</a>&nbsp;&nbsp;&nbsp;&nbsp;
         <br>
         </p>
     </div>
 </div>
 
-
- 
-Projects Hightlights
-====
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
     <img src="/images/onnx.png" style="width: 390px; height: 200px; object-fit: cover; flex-shrink: 0;" alt="Research Image">
     <div style="margin-left: 10px;">
         <b><i>Depth-Anything v2 Onnx Runtime implementation</i>
         </b>
         <br>
-        <p>Implemtated Depth-Anythingv2 Large model for onnxruntime acceleration.
+        <p>Implemented Depth-Anythingv2 Large model for onnxruntime acceleration.
         <br>
         <a href="https://github.com/WeisonWEileen/depthanythingv2-onnxruntime-cpp-inference">Code</a>&nbsp;&nbsp;&nbsp;&nbsp;
         <br>
@@ -181,14 +196,15 @@ Projects Hightlights
 </div>
 
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
+<!-- <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
     <img src="/images/dbscan.png" style="width: 390px; height: 200px; object-fit: cover; flex-shrink: 0;" alt="Research Image">
     <div style="margin-left: 10px;">
         <b>Pointcloud Clustering
         </b>
         <br>
-        <p>Implenmentated DBscan Algorithm for pointcloud clustering based on cartesian coordinates
+        <p>Implemented DBscan Algorithm for pointcloud clustering based on cartesian coordinates
         <br>
         </p>
     </div>
-</div>
+</div> -->
+
