@@ -16,7 +16,7 @@ Research
 
 
 <div style="display: flex; align-items: flex-start;margin-bottom: 60px;">
-    <video width="420" height="200" autoplay loop muted>
+    <video style="width: 420px; height: 200px; object-fit: cover; flex-shrink: 0;" autoplay loop muted>
         <source src="/images/manipulation.mp4" type="video/mp4">
     </video>
     <div style="margin-left: 10px;">
@@ -34,9 +34,7 @@ Research
 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 60px;">
-    <a  style="height: 14em;" class="research-thumb">
-        <img src="/images/uav.png" width="420" height="200" style="object-fit: cover;" alt="Research Image">
-    </a>
+    <img src="/images/uav.png" style="width: 420px; height: 200px; object-fit: cover; flex-shrink: 0;" alt="Research Image">
     <div style="margin-left: 10px;">
         <b>
             Diffusion-based Mirror Perception for UAV Navigation
@@ -55,9 +53,7 @@ Research
 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
-    <a  style="height: 14em;" class="research-thumb">
-        <img src="/images/centaur_combined.gif" width="420" height="200" style="object-fit: cover;" alt="Research Image">
-    </a>
+    <img src="/images/centaur_combined.gif" style="width: 420px; height: 200px; object-fit: cover; flex-shrink: 0;" alt="Research Image">
     <div style="margin-left: 10px;">
         <b>Design, RL Control and Sim-to-real Transfer for a load-carriage robot
         </b>
@@ -117,7 +113,7 @@ Competition
     <!-- <a  style="height: 14em;" class="research-thumb">
         <img src="/images/robocon.png" width="1180" height="675" alt="Research Image">
     </a> -->
-    <video width="420" height="200" autoplay loop muted>
+    <video style="width: 420px; height: 200px; object-fit: cover; flex-shrink: 0;" autoplay loop muted>
         <source src="/images/robot.mp4" type="video/mp4">
     </video>
     <div style="margin-left: 10px;">
@@ -135,9 +131,7 @@ Competition
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
-    <a  style="height: 14em;" class="research-thumb">
-        <img src="/images/fpga.gif" width="420" height="200" style="object-fit: cover;" alt="Research Image">
-    </a>
+    <img src="/images/fpga.gif" style="width: 420px; height: 200px; object-fit: cover; flex-shrink: 0;" alt="Research Image">
     <div style="margin-left: 10px;">
         <b><i>National FPGA and Embedded System Competition</i>
         </b>
@@ -154,9 +148,7 @@ Competition
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
-    <a  style="height: 14em;" class="research-thumb">
-        <img src="/images/qtdifraction.png" width="420" height="200" style="object-fit: cover;" alt="Research Image">
-    </a>
+    <img src="/images/qtdifraction.png" style="width: 420px; height: 200px; object-fit: cover; flex-shrink: 0;" alt="Research Image">
     <div style="margin-left: 10px;">
         <b><i>National University Physics Experiment Software Design Competition </i>
         </b>
@@ -175,9 +167,7 @@ experiment; uilized Qt framework design UI and realize 3D model interaction
 Projects Hightlights
 ====
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
-    <a  style="height: 14em;" class="research-thumb">
-        <img src="/images/onnx.png" width="420" height="200" style="object-fit: cover;" alt="Research Image">
-    </a>
+    <img src="/images/onnx.png" style="width: 420px; height: 200px; object-fit: cover; flex-shrink: 0;" alt="Research Image">
     <div style="margin-left: 10px;">
         <b><i>Depth-Anything v2 Onnx Runtime implementation</i>
         </b>
@@ -192,9 +182,7 @@ Projects Hightlights
 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
-    <a  style="height: 14em;" class="research-thumb">
-        <img src="/images/dbscan.png" width="420" height="200" style="object-fit: cover;" alt="Research Image">
-    </a>
+    <img src="/images/dbscan.png" style="width: 420px; height: 200px; object-fit: cover; flex-shrink: 0;" alt="Research Image">
     <div style="margin-left: 10px;">
         <b>Pointcloud Clustering
         </b>
