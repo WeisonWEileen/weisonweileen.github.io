@@ -111,8 +111,8 @@ Education Background
 ======
 
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
-    <b>Southern University of Science and Technology (SUSTech)</b>
-    <span>Sep 2022 - June, 2026 (Expected)</span>
+    <b>Southern University of Science and Technology</b>
+    <span>Sep 2022 - Present</span>
 </div>
 <i>Bachelor of Engineering in Robotics Engineering</i> | GPA: <b>3.8/4.0</b>
 
@@ -120,7 +120,7 @@ Education Background
     <b>University of California, Berkeley</b>
     <span>August 2025 - Dec 2025</span>
 </div>
-<i>Visiting Student</i> | GPA: <b>4.0/4.0</b>
+<i>Visiting Student</i> 
 
 Competitions and Projects
 ======
