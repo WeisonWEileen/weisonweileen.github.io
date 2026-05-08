@@ -139,7 +139,7 @@ Competitions and Projects
         <p>
         <b>Team leader</b>
         <br>
-        Worked on design, control, perception from scratch.
+        Design robots, built perception and control pipeline from scratch.
         <span>
 </span>
         <br>
