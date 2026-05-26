@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at <a href="https://www.sustech.edu.cn/en/">Southern University of Science and Technology (SUSTech)</a>,  supervised by  <a href="https://scholar.google.com.hk/citations?user=-fnyGY4AAAAJ&hl=en">Prof. Boyu Zhou</a>. I was also a visiting student at UC Berkeley (25 Fall). Currently I am a research intern at <a href="https://wuji.tech/en/">Wuji</a>.
-My goal is to build robust, generalizable and useful robotic systems. Now I am focusing on **(a) Tactile-Adaptive Robot Dexterity**, **(b) Pre-trained friendly bi-dexterous robotic system design.**
+I am an undergraduate student at <a href="https://www.sustech.edu.cn/en/">Southern University of Science and Technology (SUSTech)</a>. 
+My interest is to build robust, generalizable and useful robotic systems. Now I am focusing on **(a) Tactile-Adaptive Robot Dexterity**, **(b) Pre-trained friendly bi-dexterous robotic system design.**
 
 Research
 ======
